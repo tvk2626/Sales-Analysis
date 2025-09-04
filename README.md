@@ -6,12 +6,6 @@ Analyze sales performance, customer behavior, and product trends to provide acti
 ## Project Type
 Backend
 
-## Directory Structure
-Sales-Analysis/
-├─ Cleaned_dataset_Sales.csv
-├─ SQL analysis.sql
-├─ Visualization.ipynb
-
 ## Technology Stack
 Python(Pandas,Matplotlib,Seaborn libraries)
 SQL
